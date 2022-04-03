@@ -6,12 +6,12 @@ _Este Proyecto toma como base la [data](https://www.kaggle.com/saurabhshahane/wi
 
 ## 🔎 Contexto 
 
-- La data que se esta utilizando es un conjunto de datos generado por el Modelo de polinización de arándanos silvestres, es un modelo de simulación espacialmente explícito validado por observación de campo y datos experimentales recopilados en Maine, EE. últimos 30 años.
+- La data que se esta utilizando es un conjunto de datos generado por el Modelo de polinización de arándanos silvestres, es un modelo de simulación espacialmente explícito validado por observación de campo y datos experimentales recopilados en Maine, EE. en los últimos 30 años.
 
-- Debido a la problematica se requieren datos que caractericen la influencia de los rasgos espaciales de las plantas, la composición de especies de abejas y las condiciones climáticas.
+- Debido a la problematica se requieren datos que caractericen la influencia de los rasgos espaciales de las plantas, la composición de las especies de abejas y las condiciones climáticas.
 
 ## 💡 Meta  
-Este proyecto propone dar una posible solución a una de las tareas más desafiantes en el Sector Agricola; el cual es **"predecir con precisión el rendimiento de los cultivos"**. En este caso nos enfocaremos en buscar predecir el rendimiento de arándanos silveltres 
+Este proyecto propone dar una posible solución a una de las tareas más desafiantes en el Sector Agricola; el cual es **"predecir con precisión el rendimiento de los cultivos"**. En este caso nos enfocaremos en buscar predecir el rendimiento de arándanos silveltres. 
 
 
 ## 🔗 Link importantes 
