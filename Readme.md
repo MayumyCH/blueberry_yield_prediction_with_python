@@ -17,6 +17,7 @@ Este proyecto propone dar una posible solución a una de las tareas más desafia
 ## 🔗 Link importantes 
 1. [Link de la data del proyecto](https://github.com/MayumyCH/blueberry_yield_prediction_with_python/blob/main/dataset/BlueberryData.csv)
 2. [Notebook del proyecto](https://github.com/MayumyCH/blueberry_yield_prediction_with_python/blob/main/Blueberry_prediction.ipynb)
+2. [PDF presentación del proyecto](https://github.com/MayumyCH/blueberry_yield_prediction_with_python/blob/main/resources/proyectoArandano.pdf)
 
 ---
 ⌨️ con ❤️ por  [Mayumy CH ☠️](https://github.com/MayumyCH)  
